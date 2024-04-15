@@ -1,0 +1,74 @@
+[
+  {
+    "image": "https://i.redd.it/n09ylzefzcm51.jpg",
+    "date": "2024-03-11",
+    "likes": 10,
+    "title": "Nissan Silvia S14 ",
+    "intro": "Introduzione all'articolo 1",
+    "isLiked": true
+  },
+  {
+    "image": "https://c4.wallpaperflare.com/wallpaper/749/717/67/need-for-speed-nissan-s15-silvia-s15-wallpaper-preview.jpg",
+    "date": "2024-03-10",
+    "likes": 20,
+    "title": "Nissan Silvia S15 ",
+    "intro": "Introduzione all'articolo 2",
+    "isLiked": true
+  },
+  {
+    "image": "https://wallpapers.com/images/hd/customized-blue-nissan-skyline-gtr-r34-qpzewy7a3vzt54md.jpg",
+    "date": "2024-03-09",
+    "likes": 15,
+    "title": "Nissan Skyline GT-R 34",
+    "intro": "Introduzione all'articolo 3",
+    "isLiked": true
+  },
+  {
+    "image": "https://wallpapers.com/images/featured/nissan-gtr-3dtvef6x95689o4n.jpg",
+    "date": "2024-03-08",
+    "likes": 18,
+    "title": "Nissan Skyline GT-R 35",
+    "intro": "Introduzione all'articolo 4",
+    "isLiked": false
+  },
+  {
+    "image": "https://strapiadmin.f1rstmotors.com/uploads/5_7329b7847e.jpg?w=3840&q=75",
+    "date": "2024-03-07",
+    "likes": 25,
+    "title": "Mazda rx-7",
+    "intro": "Introduzione all'articolo 5",
+    "isLiked": true
+  },
+  {
+    "image": "https://e7.pngegg.com/pngimages/609/331/png-clipart-sports-car-nissan-skyline-hyundai-genesis-car-compact-car-car-thumbnail.png",
+    "date": "2024-03-06",
+    "likes": 12,
+    "title": "Titolo dell'articolo 6",
+    "intro": "Introduzione all'articolo 6",
+    "isLiked": false
+  },
+  {
+    "image": "https://e7.pngegg.com/pngimages/28/273/png-clipart-fast-furious-brian-connor-s-orange-toyota-supra-mkiv-car-toyota-supra-the-fast-and-the-furious-owen-shaw-action-film-nissan-car-compact-car-performance-car-thumbnail.png",
+    "date": "2024-03-05",
+    "likes": 30,
+    "title": "Titolo dell'articolo 7",
+    "intro": "Introduzione all'articolo 7",
+    "isLiked": true
+  },
+  {
+    "image": "https://e7.pngegg.com/pngimages/39/911/png-clipart-honda-civic-type-r-car-honda-cr-x-bmw-honda-compact-car-vehicle-thumbnail.png",
+    "date": "2024-03-04",
+    "likes": 22,
+    "title": "Titolo dell'articolo 8",
+    "intro": "Introduzione all'articolo 8",
+    "isLiked": false
+  },
+  {
+    "image": "https://strapiadmin.f1rstmotors.com/uploads/5_7329b7847e.jpg?w=3840&q=75",
+    "date": "2024-03-03",
+    "likes": 17,
+    "title": "cambiare immagine",
+    "intro": "Introduzione all'articolo 9",
+    "isLiked": false
+  }
+]
