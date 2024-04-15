@@ -32,7 +32,7 @@ const Article = ({ data, click}) => {
         <h2>{data.title}</h2>
         <p>{data.intro}</p>
         
-        <button onClick={click}>Leggi di più</button>
+       
     </article>
   )
 }
