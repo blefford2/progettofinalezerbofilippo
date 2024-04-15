@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from "../../logo.svg"
+import logo from "../immagini/pngwing.com.png"
 import './Header.css'
 
 const Header = () => {
@@ -8,9 +8,7 @@ const Header = () => {
     <img src={logo} alt="Logo" className='logo' />
     <nav>
         <ul>
-            <li>Home</li>
-            <li>about us</li>
-            <li>contact</li>
+            <li>Midnight Club Garage</li>
         </ul>
     </nav>
     </header>

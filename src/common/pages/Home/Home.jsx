@@ -8,8 +8,8 @@ const Home = () => {
     console.log('click !')
   }
   return (
-    <div id="home" className='wrapper'>
-        <h1>Article Home</h1>
+    <div id="home" className='wrapper' >
+        <h1>LE MIGLIORI 9 AUTO DELL'MCG</h1>
 
         <div className='article-section'>
 

@@ -1,74 +1,65 @@
 [
   {
     "image": "https://i.redd.it/n09ylzefzcm51.jpg",
-    "date": "2024-03-11",
     "likes": 10,
     "title": "Nissan Silvia S14 ",
-    "intro": "Introduzione all'articolo 1",
+    "intro": "Motore da 220 CV, Turbocompressore, Bombola di NOS da 4.03 L, Sospensioni da strada, Pneumatici da strada per aumentare l'aderenza, Bodykit SPEEDHUNTERS. Tutto questo per una velocità massima di 276 km!",
     "isLiked": true
   },
   {
     "image": "https://c4.wallpaperflare.com/wallpaper/749/717/67/need-for-speed-nissan-s15-silvia-s15-wallpaper-preview.jpg",
-    "date": "2024-03-10",
     "likes": 20,
     "title": "Nissan Silvia S15 ",
-    "intro": "Introduzione all'articolo 2",
+    "intro": "Motore da 250 CV, Turbocompressore, Bombola di NOS da 2.0 L, Sospensioni da strada, Pneumatici da drift, Bodykit AERO. Tutto questo per una velocità massima di 372 km!",
     "isLiked": true
   },
   {
     "image": "https://wallpapers.com/images/hd/customized-blue-nissan-skyline-gtr-r34-qpzewy7a3vzt54md.jpg",
-    "date": "2024-03-09",
     "likes": 15,
     "title": "Nissan Skyline GT-R 34",
-    "intro": "Introduzione all'articolo 3",
+    "intro": "Motore da 350 CV 3.7l V6, Doppio turbocompressore, Bombola di NOS da 1.0, sospensioni da drift, Pneumatici da drift, Bodykit SPEEDHUNTERS. Tutto questo per una velocità massima di 320 Km!",
     "isLiked": true
   },
   {
     "image": "https://wallpapers.com/images/featured/nissan-gtr-3dtvef6x95689o4n.jpg",
-    "date": "2024-03-08",
     "likes": 18,
     "title": "Nissan Skyline GT-R 35",
-    "intro": "Introduzione all'articolo 4",
+    "intro": "Motore da 562 CV 3.8l V6, TurboCompressore, Sospensioni da gara, Pneumatici da strada, Bodykit stock. Tutto questo per una velocità massima di 373 Km!",
     "isLiked": false
   },
   {
     "image": "https://strapiadmin.f1rstmotors.com/uploads/5_7329b7847e.jpg?w=3840&q=75",
-    "date": "2024-03-07",
     "likes": 25,
     "title": "Mazda rx-7",
-    "intro": "Introduzione all'articolo 5",
+    "intro": "Motore da 325 CV 2.5l v4, Doppio tubocompressore, Sospensioni da drift, Pneumatici da Drift, BodyKit CUSTOM. Tutto questo per una velocità massima di 275 Km!",
     "isLiked": true
   },
   {
-    "image": "https://e7.pngegg.com/pngimages/609/331/png-clipart-sports-car-nissan-skyline-hyundai-genesis-car-compact-car-car-thumbnail.png",
-    "date": "2024-03-06",
+    "image": "https://i.pinimg.com/originals/94/6b/81/946b81372c9453a11b7d44e58a2a9e71.jpg",
     "likes": 12,
-    "title": "Titolo dell'articolo 6",
-    "intro": "Introduzione all'articolo 6",
+    "title": "Nissan 200 SX",
+    "intro": "Motore da 220 CV, turbocompressore, Bombola di NOS da 2.3, Sospensioni da drift, Pneumatici da drift, Bodykit CUSTOM. Tutto questo per una velocità massima di 350 km!",
     "isLiked": false
   },
   {
-    "image": "https://e7.pngegg.com/pngimages/28/273/png-clipart-fast-furious-brian-connor-s-orange-toyota-supra-mkiv-car-toyota-supra-the-fast-and-the-furious-owen-shaw-action-film-nissan-car-compact-car-performance-car-thumbnail.png",
-    "date": "2024-03-05",
+    "image": "https://www.hdcarwallpapers.com/walls/toyota_supra_mk4-HD.jpg",
     "likes": 30,
-    "title": "Titolo dell'articolo 7",
-    "intro": "Introduzione all'articolo 7",
+    "title": "Toyota Supra mk4 ",
+    "intro": "Motore da 340 CV 3.21l v6, Turbocompressore, Bombola di NOS da 1.04, Sospensioni da drift, Pneumatici da drift, bodykit F&F 7. Tutto questo per una velocità massima di 320 km!", 
     "isLiked": true
   },
   {
-    "image": "https://e7.pngegg.com/pngimages/39/911/png-clipart-honda-civic-type-r-car-honda-cr-x-bmw-honda-compact-car-vehicle-thumbnail.png",
-    "date": "2024-03-04",
+    "image": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1562227927/autoexpress/0/18/honda-civic-ek9-54e0cfb452d5d.jpg",
     "likes": 22,
-    "title": "Titolo dell'articolo 8",
-    "intro": "Introduzione all'articolo 8",
+    "title": "Honda Civic Type-r 1997",
+    "intro": "Motore da 220 CV 2.21l v4, Doppio turbocompressore, Sospensioni da gara, Pneumatici da strada, Bodykit CUSTOM. tutto questo per una velocità massima di 310 Km!",
     "isLiked": false
   },
   {
-    "image": "https://strapiadmin.f1rstmotors.com/uploads/5_7329b7847e.jpg?w=3840&q=75",
-    "date": "2024-03-03",
+    "image": "https://cdn.motor1.com/images/mgl/vLrOq/s1/mitsubishi-eclipse-all-asta-l-esemplare-di-fast-furious.jpg",
     "likes": 17,
-    "title": "cambiare immagine",
-    "intro": "Introduzione all'articolo 9",
+    "title": "Mitsubishi Eclipse 1995",
+    "intro": "Motore da 325 CV 2.5l v4 Doppio Turbo compressore, Sospensioni da gara, Pneumatici da drift, Bodykit F&F 2. Tutto questo per una velocità massima di 284 Km!",
     "isLiked": false
   }
 ]

@@ -1,15 +1,21 @@
 header {
-    background-color: rgb(123, 0, 180);
+    background-color: rgb(122, 5, 5);
     display: flex;
 justify-content: space-between;
 }
 
 .logo{
-    width: 100px;
+    width: 1000px;
+    margin-left: 750px;
+    margin-top: 50px;
 }
 
 nav ul{
     list-style-type: none;
     display: flex;
-    gap: 15px;
+    gap: 50px;
+    margin-right: 1200px;
+    margin-top: 50px;
+    font-size: 230%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
